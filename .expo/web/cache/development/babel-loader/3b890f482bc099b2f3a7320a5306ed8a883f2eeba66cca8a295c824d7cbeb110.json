@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var MULTIPLY_FIVE = 'MULTIPLY_FIVE';","map":{"version":3,"names":["MULTIPLY_FIVE"],"sources":["C:/Users/anvesh.akkati/reduxmreducers/src/redux/multiply_five/FiveType.js"],"sourcesContent":["export const MULTIPLY_FIVE = 'MULTIPLY_FIVE';"],"mappings":"AAAA,OAAO,IAAMA,aAAa,GAAG,eAAe"},"metadata":{},"sourceType":"module","externalDependencies":[]}

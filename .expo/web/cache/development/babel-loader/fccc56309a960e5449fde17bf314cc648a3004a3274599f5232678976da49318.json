@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var MULTIPLY_TWO = 'MULTIPLY_TWO';","map":{"version":3,"names":["MULTIPLY_TWO"],"sources":["C:/Users/anvesh.akkati/reduxmreducers/src/redux/multiply_two/TwoType.js"],"sourcesContent":["export const MULTIPLY_TWO = 'MULTIPLY_TWO';"],"mappings":"AAAA,OAAO,IAAMA,YAAY,GAAG,cAAc"},"metadata":{},"sourceType":"module","externalDependencies":[]}
